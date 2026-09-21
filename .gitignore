@@ -1,0 +1,14 @@
+.DS_Store
+*.swp
+.idea/
+.vscode/
+.env
+.hf_token
+*.bin
+*.onnx
+*.ckpt
+*.pt
+*.pth
+wandb/
+outputs/
+logs/

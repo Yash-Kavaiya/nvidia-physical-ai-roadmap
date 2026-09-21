@@ -69,7 +69,9 @@ Isaac ROS on Jetson  -- real robot
         +-------- more real data --> loop
 ```
 
----
+## World models
+ - [World Models explained in 10min](https://www.youtube.com/watch?v=ECWC-YlAk1o)
+ - [Build a World Model from Scratch](https://youtube.com/playlist?list=PLahzD_BXtne4&si=4xOUzbn53tH-za8W)
 
 ## Prerequisites
 
